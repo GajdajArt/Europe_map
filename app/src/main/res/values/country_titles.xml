@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="finland">Финляндия</string>
+    <string name="estonia">Эстония</string>
+    <string name="latvia">Латвия</string>
+    <string name="lithuania">Литва</string>
+    <string name="belarus">Беларуссия</string>
+    <string name="ukraine">Украина</string>
+    <string name="moldova">Молдова</string>
+    <string name="sweden">Швеция</string>
+    <string name="poland">Польша</string>
+    <string name="slovakia">Словакия</string>
+    <string name="hungary">Венгрия</string>
+    <string name="romania">Румыния</string>
+    <string name="bulgaria">Болгария</string>
+    <string name="macedonia">Македония</string>
+    <string name="greece">Греция</string>
+
+    <string name="norway">Норвегия</string>
+    <string name="denmark">Дания</string>
+    <string name="germany">Германия</string>
+    <string name="czech_rep">Чехия</string>
+    <string name="austria">Австрия</string>
+    <string name="slovenia">Словения</string>
+    <string name="croatia">Хорватия</string>
+    <string name="bos_her">Босния и Герцоговина</string>
+    <string name="serbia">Сербия</string>
+    <string name="montenegro">Черногория</string>
+    <string name="kosovo">Косово</string>
+    <string name="albania">Албания</string>
+    <string name="switzerland">Швейцария</string>
+    <string name="italy">Италия</string>
+
+    <string name="uk">Великобритания</string>
+    <string name="ireland">Ирландия</string>
+    <string name="netherlands">Нидерланды</string>
+    <string name="belgium">Бельгия</string>
+    <string name="lux">Люкленбург</string>
+    <string name="france">Франция</string>
+    <string name="spain">Испания</string>
+    <string name="portugal">Португалия</string>
+    <string name="iceland">Исландия</string>
+</resources>
